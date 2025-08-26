@@ -37,7 +37,7 @@ const LoginPage = () => {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             
-            placeholder="e.g. John Doe"
+            placeholder="e.g. boribo@gmail.com"
             className="w-full px-3 py-1.5 md:py-2 text-[#252422] rounded-lg  bg-white border border-gray-500"
           />
         </div>
